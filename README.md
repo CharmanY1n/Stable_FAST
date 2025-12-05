@@ -1,18 +1,4 @@
 # README
-
-
-
-
-
-
-## 📊 Comparison
-
-| Task| FAST | 本文方法 (Ours) |
-| :---: | :---: | :---: |
-| **block** | [https://github.com/user-attachments/assets/0102c293-ae27-46f5-acd0-936e38074a38] | [https://github.com/user-attachments/assets/af5eccd7-1851-4c9d-a448-28dfa7bbf93c] |
-| **抓取任务 2** | [把你的Baseline视频链接2填在这里] | [把你的Ours视频链接2填在这里] |
-
-
 ## Environment Setup
 
 This project uses a same environment configuration process as [openpi](https://github.com/Physical-Intelligence/openpi).
