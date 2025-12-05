@@ -1,4 +1,66 @@
 # README
+## Comparison_Demo
+### Multi_Task
+#### BLOCK
+
+
+https://github.com/user-attachments/assets/d0f927c9-6d50-424a-998d-684415dd7850
+#### BOWL
+
+
+https://github.com/user-attachments/assets/53b4be04-4297-4162-9d10-fee7a12bc6c7
+
+#### BREAD
+
+
+https://github.com/user-attachments/assets/4319e883-3b18-4060-849a-09e1bdd3ed1c
+#### CUBE
+
+
+https://github.com/user-attachments/assets/990f1c31-3e00-49c7-8031-4c3b9d86d0cd
+
+#### HEART
+
+
+https://github.com/user-attachments/assets/6246ae94-bda4-491b-a4bc-dc8abe02fb4e
+
+#### LEMON
+
+
+https://github.com/user-attachments/assets/468583da-548c-4f93-8210-3d619cb1cb49
+
+#### PAPER
+
+
+https://github.com/user-attachments/assets/1b021c93-d900-4814-85ff-600231f31a3d
+
+#### PLATE
+
+
+https://github.com/user-attachments/assets/5f593d5a-2c1b-49e3-8d86-0637ebff5a13
+
+#### TAPE
+
+
+https://github.com/user-attachments/assets/a971f741-ae84-438a-a426-03b351019602
+
+#### WATERMELON
+
+
+https://github.com/user-attachments/assets/82a81c20-a455-43ac-8f02-9fcd078dc49f
+
+### BUSSSING
+
+
+https://github.com/user-attachments/assets/ca99ad29-98a5-4197-a034-45c92d255342
+
+### SORTING
+
+
+https://github.com/user-attachments/assets/1c95b08e-d18d-459e-856b-c5f2c21f864b
+
+
+
 ## Environment Setup
 
 This project uses a same environment configuration process as [openpi](https://github.com/Physical-Intelligence/openpi).
