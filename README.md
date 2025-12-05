@@ -5,7 +5,7 @@
 This project uses a same environment configuration process as [openpi](https://github.com/Physical-Intelligence/openpi).
 
 ```bash
-git clone --recurse-submodules git@github.com:your-username/your-repo.git #TODO 写入我们的仓库
+git clone --recurse-submodules git@github.com:CharmanY1n/Stable_FAST.git
 ```
 
 We use [uv](https://docs.astral.sh/uv/) to manage Python dependencies. See the [uv installation instructions](https://docs.astral.sh/uv/getting-started/installation/) to set it up. Once uv is installed, run the following to set up the environment:
